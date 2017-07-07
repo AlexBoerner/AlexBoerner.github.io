@@ -3,15 +3,15 @@ h1 {
 }
 
 p1 {
-    color:green;
+    color:blue;
 }
 
 p2 {
-    color:Yellow;
+    color:black;
 }
 
 h3 {
-    color:white;
+    color:black;
 }
 
 p3 {
@@ -28,4 +28,7 @@ P2 {
 
 p1 {
     font-size:20px;
+}
+body  {
+   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/80/25/9b/80259b1ddd4f3002b293b48197a6f46c.jpg);
 }
