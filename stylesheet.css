@@ -15,7 +15,7 @@ h3 {
 }
 
 p3 {
-    color:red;
+    color:darkgreen;
 }
 
 P3 {
@@ -31,4 +31,8 @@ p1 {
 }
 body  {
    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/80/25/9b/80259b1ddd4f3002b293b48197a6f46c.jpg);
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+
 }
